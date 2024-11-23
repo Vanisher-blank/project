@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../GitHub/Return"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vs.code"
+	}
+}
